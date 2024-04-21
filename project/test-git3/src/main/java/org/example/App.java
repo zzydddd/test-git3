@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "m1" );
         System.out.println( "h1" );
+        System.out.println( "push" );
     }
 }

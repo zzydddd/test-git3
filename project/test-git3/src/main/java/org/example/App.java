@@ -12,5 +12,6 @@ public class App
         System.out.println( "h1" );
         System.out.println( "push" );
         System.out.println( "pull" );
+        System.out.println( "test" );
     }
 }
